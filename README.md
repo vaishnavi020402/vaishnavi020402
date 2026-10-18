@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Vaishnavi Sharma — Full-Stack Developer" width="100%" />
+<img src="./banner.png" alt="Vaishnavi Sharma — Full-Stack Developer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1000&color=818CF8&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+AKS+University;Building+real-time+web+applications;Learning+%7C+Building+%7C+Improving" alt="Vaishnavi Sharma — animated developer introduction" />
 
