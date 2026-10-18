@@ -6,7 +6,8 @@
 
 **B.Tech CSE Undergraduate · MERN Stack · Java & DSA · GATE Aspirant**
 
-[GitHub Profile](https://github.com/vaishnavi020402) &nbsp;·&nbsp; [Email](mailto:drishuu22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vaishnavi020402-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavi020402)
+[![Email](https://img.shields.io/badge/Email-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishuu22@gmail.com)
 
 </div>
 
@@ -23,7 +24,7 @@ Hi, I'm **Vaishnavi Sharma**, a Computer Science & Engineering undergraduate at 
 
 <div align="center">
 
-**Java · JavaScript · TypeScript · React · Next.js · Tailwind CSS · Node.js · Express · MongoDB · Git**
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,git,github,firebase,vercel,vscode&perline=8" alt="Technology icons: Java, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express, MongoDB, Git, GitHub, Firebase, Vercel, VS Code" />
 
 </div>
 
@@ -83,7 +84,18 @@ A healthcare platform designed around patient, doctor, and administrator workflo
 
 ## GitHub Activity
 
-Explore my [repositories and contributions on GitHub](https://github.com/vaishnavi020402?tab=repositories). This link opens GitHub's own activity view and avoids unreliable third-party stat images.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavi020402&show_icons=true&hide_border=true&theme=tokyonight" alt="Vaishnavi's GitHub activity statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi020402&layout=compact&hide_border=true&theme=tokyonight" alt="Languages used in Vaishnavi's public GitHub repositories" height="165" />
+
+</div>
+
+<div align="center">
+
+> GitHub cards are provided by a third-party service and may occasionally be unavailable.
+
+</div>
 
 ## Let's Connect
 
