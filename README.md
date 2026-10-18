@@ -27,6 +27,8 @@ Hi, I'm **Vaishnavi Sharma**, a Computer Science & Engineering undergraduate at 
 
 </div>
 
+<div align="center">
+
 | Area | Technologies |
 |:--|:--|
 | **Languages** | Java, JavaScript, TypeScript, HTML, CSS |
@@ -37,9 +39,11 @@ Hi, I'm **Vaishnavi Sharma**, a Computer Science & Engineering undergraduate at 
 | **Deployment & Tools** | Firebase, Netlify, Render, Railway, MongoDB Atlas, Git, GitHub |
 | **CS Fundamentals** | DSA, OOP, DBMS |
 
+</div>
+
 ## Selected Projects
 
-### Picksy — Beauty E-commerce Platform
+### Picksy - Beauty E-commerce Platform
 
 **Next.js · TypeScript · Node.js · MongoDB · Socket.IO · JWT**
 
@@ -50,7 +54,7 @@ A full-stack e-commerce project supporting buyer and seller workflows.
 - Built responsive, mobile-first interfaces with Tailwind CSS.
 - Project deployment stack: **Netlify, Railway, and MongoDB Atlas**.
 
-### PHARMILY — Healthcare Management System
+### PHARMILY - Healthcare Management System
 
 **React · Node.js · Express · MongoDB · Socket.IO · JWT**
 
@@ -65,17 +69,17 @@ A healthcare platform designed around patient, doctor, and administrator workflo
 
 ## Education & Learning
 
-- **B.Tech in Computer Science & Engineering** — AKS University, Satna
+- **B.Tech in Computer Science & Engineering** - AKS University, Satna
 - **Current CGPA:** 8.45 (as listed on my resume)
 - **Current focus:** GATE preparation, Java DSA, full-stack development
 
 ## Certifications & Participation
 
-- **Skill India Mission (PMKVY)** — Software Developer, NCVET-certified, 420-hour program (2025)
-- **AKS University** — Web Development (2024)
-- **IBM SkillBuild** — Web Development Completion Certificate
-- **Apna College** — Full MERN Stack Training, Sigma Batch 8.0
-- **Smart India Hackathon 2025** — Team project focused on a civic-issue-reporting use case
+- **Skill India Mission (PMKVY)** - Software Developer, NCVET-certified, 420-hour program (2025)
+- **AKS University** - Web Development (2024)
+- **IBM SkillBuild** - Web Development Completion Certificate
+- **Apna College** - Full MERN Stack Training, Sigma Batch 8.0
+- **Smart India Hackathon 2025** - Team project focused on a civic-issue-reporting use case
 
 ## GitHub Activity
 
